@@ -4,9 +4,11 @@ _Vita Caroli_ is the autobiography written in Latin by the emperor of the Holy R
 
 The text was taken from the database [_Documenta latinitatis Bohemorum_](http://dlb.ics.cas.cz/), containing selected Medieval Latin texts of Czech origin. It is available there as part of the [_Fontes rerum Bohemicarum_](http://dlb.ics.cas.cz/browser?path=/1/20/45/46//47&text=47) collection.
 
-## Acknowledgments
+## Credits
 
-The LiLa: Linking Latin project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme – Grant Agreement No. 769994.
+- **Contributors**: Federica Gamba, Marco Passarotti, Paolo Ruffolo, Giovanni Moretti 
+
+The _LiLa: Linking Latin_ project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme – Grant Agreement No. 769994.
 
 ## Copyright
-Vita Caroli is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />These resources are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
